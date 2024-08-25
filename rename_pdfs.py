@@ -12,8 +12,6 @@ Usage:
 Requirements:
     - Python 3.6+
     - Libraries: pdfplumber, PyPDF2, ollama, rich
-
-Author: Assistant
 Date: August 26, 2024
 Version: 1.1
 """
