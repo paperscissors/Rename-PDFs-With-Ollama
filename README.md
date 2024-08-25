@@ -59,8 +59,6 @@ The script will display a progress bar as it processes the PDFs and then show a 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Created by Assistant on August 26, 2024.
-
 ## Version
 
 1.1
