@@ -1,0 +1,4 @@
+pdfplumber==0.10.2
+PyPDF2==3.0.1
+ollama==0.1.27
+rich==13.7.0
